@@ -1,0 +1,26 @@
+body{
+  background-color:#5CE685;
+  text-align:center
+  
+  
+}
+
+h1{
+  border:2px solid black
+  
+  
+}
+
+a{
+  text-decoration:none;
+  border-style:solid;
+  color:black;
+  padding:10px;
+  border-radius:5px;
+  background-color:#F00019
+  
+  
+  
+  
+  
+}
